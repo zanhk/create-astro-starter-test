@@ -43,4 +43,4 @@ export const LOCALES = {
 };
 
 // Hosting
-export const HOSTING_SERVICE: "cloudflare" | "netlify" | "none" = "netlify";
+export const HOSTING_SERVICE: "cloudflare" | "netlify" | "none" = "cloudflare";
